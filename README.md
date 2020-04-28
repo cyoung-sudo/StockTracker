@@ -1,24 +1,28 @@
-# README
+# StockTracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## App preview:
 
-Things you may want to cover:
+![](app/assets/images/preview.png)
 
-* Ruby version
+## Heroku link:
+https://stock-tracker-test-tracker.herokuapp.com
 
-* System dependencies
+## Features:
 
-* Configuration
+* Create user accounts
 
-* Database creation
+* Track stocks
 
-* Database initialization
+* Add friends
 
-* How to run the test suite
+## Information:
 
-* Services (job queues, cache servers, search engines, etc.)
+* Ruby version: 2.6.3
 
-* Deployment instructions
+* Rails version: 6.0.2
 
-* ...
+* Bootstrap version: 4.3.1
+
+## Issues:
+
+* Mobile collapse isn't working
