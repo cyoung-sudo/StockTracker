@@ -22,7 +22,3 @@ https://stock-tracker-test-tracker.herokuapp.com
 * Rails version: 6.0.2
 
 * Bootstrap version: 4.3.1
-
-## Issues:
-
-* Mobile collapse isn't working
